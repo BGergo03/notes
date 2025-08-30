@@ -83,7 +83,10 @@ p {
   border: #3d3d3d 1px solid;
 }
 
-.note:hover {
+/* .note:hover {
+} */
+
+.selected {
   background-color: #ffe066;
 }
 
